@@ -1,6 +1,6 @@
 package com.tfar.avaritiaio.util;
 
-import net.minecraftforge.fml.common.event.FMLInterModComms;
+import cpw.mods.fml.common.event.FMLInterModComms;
 
 public class IMCHandler {
     public static void sendIMCs() {
